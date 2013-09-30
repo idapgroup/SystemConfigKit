@@ -1,3 +1,3 @@
 SystemConfigKit
 ===============
-Kit requires the following kits: [CommonKit](https://github.com/idapgroup/CommonKit).
+Dependencies: [CommonKit](https://github.com/idapgroup/CommonKit).
